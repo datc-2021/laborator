@@ -1,0 +1,6 @@
+Steam este un serviciu de distributie digitala pentru jocuri video.
+Acesta s-a extins si intr-o vitrina digitala online și mobila online.
+Steam ofera servicii de gestionare a drepturilor digitale (DRM), gazduire server, streaming video si servicii de retele sociale .
+De asemenea, ofera utilizatorului instalarea si actualizarea automata a jocurilor si caracteristici ale comunitatii, cum ar fi listele si grupurile de prieteni, stocarea în cloud și functionalitatea de voce si chat în joc.
+Valve a inclus suport beta pentru Steam Cloud Play in mai 2020, pentru ca dezvoltatorii să permita utilizatorilor sa joace jocuri în biblioteca lor, pe care dezvoltatorii si editorii au optat sa le permita intr-un serviciu de jocuri cloud .
+La lansare, Steam Cloud Play a functionat numai prin serviciul GeForce Now al Nvidia si s-ar conecta la alte servicii cloud în viitor.
