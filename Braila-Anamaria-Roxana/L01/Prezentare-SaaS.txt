@@ -1,5 +1,7 @@
 Pentru aceasta tema am hotarat sa prezint in cateva cuvinte GMAIL!! (Folosesc Gmail de mai bine de 2 ani, cred)
 Gmail este o aplicatie web de email. Acest serviciu face parte din categoria SaaS (Software as a Service), iar furnizorul acestuia este Google.
-Gestiunea acestei aplicatii (ce contine elemente precum: runtime, securitate si integritate, baze de date, servere, virtualizare, servere hardware, spatiu de stocare, retea) nu reprezinta o ingrijorare pentru utilizatorul (in cazul de fata, eu), deoarece aceste serviciu vine cu un pachet complet, a carui interfata vine pregatita pentru a fi utilizata in mod placut. Spre exemplu: scrierea de email-uri, trimiterea acestora, primirea unora etc.
+Gestiunea acestei aplicatii (ce contine elemente precum: runtime, securitate si integritate, baze de date, servere, virtualizare, servere hardware, spatiu de stocare, retea)
+nu reprezinta o ingrijorare pentru utilizatorul (in cazul de fata, eu), deoarece aceste serviciu vine cu un pachet complet, a carui interfata vine pregatita pentru a fi
+utilizata in mod placut. Spre exemplu: scrierea de email-uri, trimiterea acestora, primirea unora etc.
 
 ||heh..nu mai stiu ce sa zic:D||
