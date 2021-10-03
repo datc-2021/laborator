@@ -1,0 +1,2 @@
+O aplicatie de tipul software-as-a-service pe care am folosit-o este google drive.
+Prin intermediul google drive punem încărca un folder sau fișier, pe care îl putem distribui unor persoane care au cont google sau oricine are link-ul distribuit.
