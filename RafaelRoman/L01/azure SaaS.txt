@@ -1,0 +1,11 @@
+Avantajele SaaS. Azure Microsoft
+
+Obțineți acces la aplicații sofisticate. Pentru a furniza aplicații SaaS utilizatorilor, nu este nevoie să achiziționați, să instalați, să actualizați sau să întrețineți hardware, middleware sau software. SaaS face chiar și aplicații enterprise sofisticate, cum ar fi ERP și CRM, accesibile pentru organizațiile care nu au resursele necesare pentru a cumpăra, implementa și gestiona singure infrastructura și software-ul necesar.
+
+Plătește doar pentru ceea ce folosești. De asemenea, economisiți bani, deoarece serviciul SaaS scară automat în sus și în jos în funcție de nivelul de utilizare.
+
+Folosiți software gratuit pentru clienți. Utilizatorii pot rula majoritatea aplicațiilor SaaS direct din browserul web fără a fi nevoie să descarce și să instaleze niciun software, deși unele aplicații necesită pluginuri. Aceasta înseamnă că nu este nevoie să achiziționați și să instalați software special pentru utilizatorii dvs.
+
+Mobilizați-vă cu ușurință forța de muncă. SaaS facilitează „mobilizarea” forței de muncă, deoarece utilizatorii pot accesa aplicațiile și datele SaaS de pe orice computer sau dispozitiv conectat la internet. Nu trebuie să vă faceți griji cu privire la dezvoltarea de aplicații pentru a rula pe diferite tipuri de computere și dispozitive, deoarece furnizorul de servicii a făcut deja acest lucru. În plus, nu este nevoie să aduceți la bord expertiză specială pentru a gestiona problemele de securitate inerente computerului mobil. Un furnizor de servicii atent ales va asigura securitatea datelor dvs., indiferent de tipul de dispozitiv care le consumă.
+
+Accesați datele aplicației de oriunde. Cu datele stocate în cloud, utilizatorii își pot accesa informațiile de pe orice computer sau dispozitiv mobil conectat la Internet. Și când datele aplicației sunt stocate în cloud, nu se pierd date dacă computerul sau dispozitivul unui utilizator eșuează.
