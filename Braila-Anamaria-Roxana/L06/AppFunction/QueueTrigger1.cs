@@ -10,7 +10,7 @@ namespace Company.Function
     {
         [Function("QueueTrigger1")]
         [TableOutput("studenti")]
-        public static StudentEntity Run([QueueTrigger("myqueue-items", Connection = "azurestorageroxie_STORAGE")] string myQueueItem,
+        public static StudentEntity Run([QueueTrigger("students-q", Connection = "azurestorageroxie_STORAGE")] string myQueueItem,
             FunctionContext context)
         {
             var logger = context.GetLogger("QueueTrigger1");
