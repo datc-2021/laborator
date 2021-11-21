@@ -20,14 +20,16 @@ public class StudentsController : ControllerBase
     [HttpGet("{university}/{id}")]
     public async Task<IActionResult> Get([FromRoute] string university, string id)
         => await _studentService.Get(university.Trim(), id.Trim()).Match(
-            student => Ok(student), 
+            student => Ok(student),
             exception => (IActionResult)NotFound());
 
     [HttpPost]
     public async Task<IActionResult> Add([FromBody] StudentEntity student)
-        => await _studentService.Add(student).Match(
-            unit => Ok(),
-            exception => (IActionResult)BadRequest());
+        => (await _studentService.Add(student)).GetRawResponse().Status switch
+        {
+            201 => Ok(),
+            _ => BadRequest()
+        };
 
     [HttpPut]
     public async Task<IActionResult> Edit([FromBody] StudentEntity student)
